@@ -1,0 +1,29 @@
+﻿{
+	"version": 1653738047,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"images/player-sheet0.png",
+		"images/Частицы.png",
+		"images/Спрайт2-sheet0.png",
+		"images/Спрайт3-sheet0.png",
+		"images/knife-sheet0.png",
+		"images/weapon2-sheet0.png",
+		"images/weapon2-sheet1.png",
+		"images/weapon3-sheet0.png",
+		"images/bullet-sheet0.png",
+		"images/bang.png",
+		"images/zombie-sheet0.png",
+		"images/ammo_box-sheet0.png",
+		"images/crate-sheet0.png",
+		"images/sprite-sheet0.png",
+		"images/sprite2-sheet0.png",
+		"images/sprite3-sheet0.png",
+		"images/particles.png",
+		"images/sprite4-sheet0.png",
+		"images/particles2.png",
+		"pathfind.js"
+	]
+}
